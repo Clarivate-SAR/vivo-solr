@@ -124,7 +124,7 @@ for instructions on how to use it.
    <field name="open_access_s" type="string" indexed="true" stored="true" omitNorms="true" />
    <field name="venue_s" type="string" indexed="true" stored="true" omitNorms="true" />
    <field name="displayLabel" type="string" indexed="true" stored="true" omitNorms="true" />
-
+   <field name="primaryClassGroup" type="string" indexed="true" stored="true" omitNorms="true" />
 
 <!-- VITRO:::::::::::::::::::::: Fields from original schema.xml -->
   <!-- ****************************  Vitro Fields *************************** -->
